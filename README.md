@@ -57,3 +57,13 @@
 - Experience:
   - Leaded a team of 6 interns to built 2 React Native mobile apps for real customers in Japan.
   - Finished Sakura Campus program with 1st prize for Excellent Project (my team) and 2nd prize for Excellent Individual.
+
+
+## Personal Projects 🎮
+
+### Pikadino Extension
+> *Chrome Extension*
+
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/gdhhgepmpnhbnobdbehoikgeejbhlbhb?label=current%20users) <img src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green" /> <img src="https://img.shields.io/badge/play%20%2F%20month-9k-blueviolet" />
+
+- Download link: https://chrome.google.com/webstore/detail/pikadino/gdhhgepmpnhbnobdbehoikgeejbhlbhb
