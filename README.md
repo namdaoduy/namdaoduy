@@ -9,5 +9,12 @@
 - Short name: `Nam Dao`
 - Full name: `Đào Duy Nam`
 - English name: `Eric`
-- Email: [dev.namdaoduy@gmail.com](mailto:dev.namdaoduy@gmail.com)
-- Github: [https://github.com/namdaoduy](https://github.com/namdaoduy)
+- Links:
+  - Email: [dev.namdaoduy@gmail.com](mailto:dev.namdaoduy@gmail.com)
+  - Github: [https://github.com/namdaoduy](https://github.com/namdaoduy)
+  - LinkedIn: [https://www.linkedin.com/in/namdaoduy](https://www.linkedin.com/in/namdaoduy)
+
+## Education 👨‍🎓
+
+#### Bachelor’s degree:
+<img src="https://img.shields.io/badge/progress-80%25-yellow" />
