@@ -33,3 +33,27 @@
   - Developed multiple unreleased/beta/private products using NodeJS, React, Redux, [Got It Design System](https://designsystem.got-it.ai/), ...
   - Built Android SDK for Got It Analytics Platform (internal use)
   - Refactored internal Test Automation platform and implemented multiple test cases using Python, Selenium and Docker.
+- Refs:
+  - https://www.got-it.ai
+  - https://www.facebook.com/gotitvietnam
+  - https://medium.com/got-it-vietnam
+
+### STEAM for Vietnam
+> *Jul 2020 - Now*
+
+- Position: `Software Engineer Volunteer`
+- Experiences:
+  - Incorporated with a team of 3 engineers to built a web app providing LIVE chat for STEAM4VN Coding Bootcamp students, can serve 700 CCUs with only 100ms delay. Using React, TypeScripts, SocketIO, Got It DS and NodeJS.
+  - Incorporated with @tinhvqbk to built Open edX custom theme for STEAM4VN brand.
+- Refs:
+  - https://www.steamforvietnam.org
+  - https://courses.steamforvietnam.org
+  - https://live.steamforvietnam.org
+
+### Ominext JSC
+> *Jul 2018 - Sep 2018*
+
+- Position: `React Native Intern` @ `Sakura Campus` *(Summer internship program)*
+- Experiences:
+  - Leaded a team of 6 interns to built 2 React Native mobile apps for real customers in Japan.
+  - Finished Sakura Campus program with 1st prize for Excellent Project (my team) and 2nd prize for Excellent Individual.
