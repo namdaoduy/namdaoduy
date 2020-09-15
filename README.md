@@ -28,7 +28,7 @@
 > *Nov 2018 - Now*
 
 - Position: `Front-end Software Engineer (part-time)`
-- Experiences:
+- Experience:
   - Developed multiple features for 3 web portals of [Excelchat](https://www.got-it.ai/solutions/excel-chat/) using React and Redux.
   - Developed multiple unreleased/beta/private products using NodeJS, React, Redux, [Got It Design System](https://designsystem.got-it.ai/), ...
   - Built Android SDK for Got It Analytics Platform (internal use)
@@ -42,7 +42,7 @@
 > *Jul 2020 - Now*
 
 - Position: `Software Engineer Volunteer`
-- Experiences:
+- Experience:
   - Incorporated with a team of 3 engineers to built a web app providing LIVE chat for STEAM4VN Coding Bootcamp students, can serve 700 CCUs with only 100ms delay. Using React, TypeScripts, SocketIO, Got It DS and NodeJS.
   - Incorporated with @tinhvqbk to built Open edX custom theme for STEAM4VN brand.
 - Refs:
@@ -54,6 +54,6 @@
 > *Jul 2018 - Sep 2018*
 
 - Position: `React Native Intern` @ `Sakura Campus` *(Summer internship program)*
-- Experiences:
+- Experience:
   - Leaded a team of 6 interns to built 2 React Native mobile apps for real customers in Japan.
   - Finished Sakura Campus program with 1st prize for Excellent Project (my team) and 2nd prize for Excellent Individual.
