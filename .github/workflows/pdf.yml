@@ -1,0 +1,10 @@
+name: Auto-generate PDF Resume
+on:
+  push
+
+jobs:
+  run:
+    if: github.event.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
