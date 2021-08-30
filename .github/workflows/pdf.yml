@@ -20,7 +20,8 @@ jobs:
         uses: octokit/request-action@v2.x
         with:
           route: POST /markdown
-          text: ${{ steps.read_markdown.outputs.content }}
+          text: |
+            ${{ steps.read_markdown.outputs.content }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
