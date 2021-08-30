@@ -8,3 +8,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - name: Read CV.md
+        id: read_markdown
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./CV.md
+
+      - name: Parse CV.md
+        id: parse_markdown
+        uses: octokit/request-action@v2.x
+        with:
+          route: POST /markdown
+          text: ${{ steps.read_markdown.outputs.content }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Log output
+        run: echo "${{ steps.parse_markdown.outputs.data }}"
